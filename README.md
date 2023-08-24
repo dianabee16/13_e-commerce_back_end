@@ -11,6 +11,8 @@
 ## [Description](#table-of-contents)
 In this project we built the back end of an e-commerce site by modifying starter code. I've configured a working Express.js API to use Sequelize to interact with a MySQL database.
 
+![demo](./Screenshot%202023-08-23%20at%205.31.25%20PM.png)
+
 ## [Installation](#table-of-contents)
 For installing the application you will need to clone the repo into your local machine. To get started you can run `npm install` in the integrated terminal to install packages. After that, you will need to create a .env file and insert your own MySQL credentials. Then run mysql in your CLI to source the schema. Finally, you will need to run `npm run seed` to seed the database. Then, invoke the database with `node server.js`.
 
@@ -24,4 +26,4 @@ If you have any questions about the functionality of the application or installa
 N/A
 
 ## [Links](#table-of-contents)
-[Video Walkthrough]()
+[Video Walkthrough](https://watch.screencastify.com/v/eoecOsrftQ55tOv1iz3J)
